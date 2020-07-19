@@ -1,4 +1,12 @@
-### Hi there 👋
+### Chào các bạn, mình là Tiến Đạt Magic
+Chào mừng các bạn đã quay trở lại với trang github của mình
+
+Các bạn hãy follow mình để không bỏ lỡ những source code mới nhất nhé! Ahihi 😀😀😁😁😂
+
+Nhấp chuột vào Repositories để xem thêm nha ❤
+
+![image](https://cdn.glitch.com/a67afc81-5438-418b-a97b-7bb10c7d4cf4%2Ftiendatmagicc.png?v=1594881680906)
+
 
 <!--
 **tiendatmagic/tiendatmagic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
