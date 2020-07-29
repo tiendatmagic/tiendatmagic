@@ -5,7 +5,7 @@ Các bạn hãy follow mình để không bỏ lỡ những source code mới nh
 
 Nhấp chuột vào Repositories để xem thêm nha ❤
 
-![image](https://cdn.glitch.com/a67afc81-5438-418b-a97b-7bb10c7d4cf4%2Ftiendatmagicc.png?v=1594881680906)
+![image](https://cdn.glitch.com/a67afc81-5438-418b-a97b-7bb10c7d4cf4%2Ftiendatmagicc.png?v=1595986332429)
 
 
 <!--
